@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Trine
-- 🎓 I’m a 2nd year software engineering-student at UIA
+- 🎓 I’m a 3rd year software engineering-student at UIA
 - 🌱 Currently learning React Native
 - 📧  Reach me at trineb07@uia.no
 
