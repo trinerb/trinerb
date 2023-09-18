@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Trine
-- 🎓 Recently graduated software Engineer
+- 🎓 Recently graduated Software Engineer
 - 🌱 Currently working with .Net, C#
 - 📧  Reach me at trineb07@uia.no
 
